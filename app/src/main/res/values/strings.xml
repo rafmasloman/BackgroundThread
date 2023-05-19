@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fragment Assignment</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="profile">Profile</string>
+    <string name="full_name">Muhammad Fajri Rasid</string>
+    <string name="username">fajri-rasid1st</string>
+    <string name="et_caption_hint">Write a caption...</string>
+    <string name="upload">Upload</string>
+    <string name="inigaram">Inigaram</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In gravida risus sit amet felis ornare, nec dignissim ante ultrices. Aenean eu nibh sit amet lacus facilisis dapibus. Etiam sodales, urna at porta porta, mi lorem ultrices nunc, nec tincidunt arcu leo quis orci. Sed luctus nunc tellus, dignissim aliquam lectus venenatis ac. Fusce luctus, urna sed pharetra volutpat, dui erat finibus orci, sit amet malesuada nulla neque in ante. In hac habitasse platea dictumst.</string>
+    <string name="empty_posts_alert">Please add a post first</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
